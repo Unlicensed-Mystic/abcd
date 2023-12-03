@@ -1,0 +1,142 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+header{
+    
+    background-size: contain;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: roboto;
+  
+}
+
+.top{
+    
+    font-weight: 900;
+    font-size: 1rem ;
+    text-align: center;
+    color: rgb(224, 202, 202)
+}
+
+.simmer{
+    color: rgb(233, 233, 34);
+    font-family: Agbalumo;
+    font-size: 2rem;
+
+}
+
+.upper{
+    font-size: 3rem;
+    max-width: 60%;
+    margin-left: 20%;
+    text-align: center;
+}
+.para{
+    font-style: robotomono;
+    margin: 0% 15%;
+    text-align: center;
+
+}
+
+.pehla{
+    background-image: url("/Photos/2nd\ Back.jpg");
+    background-size: cover;
+ 
+}
+.title1{
+    padding-top: 260px;
+    margin-left: 60%;
+    font-size: 2rem;
+    max-width: 400px;
+   
+    
+}
+.content1{
+    padding-bottom: 260px;
+    margin-left: 60%;
+    max-width: 400px;
+    text-align: left;
+    font-size: 1.5rem;
+
+}
+.dusra{
+    background-image: url("/Photos/4thBack.jpg");
+    background-size: cover;
+}
+.title2{
+    padding-top: 260px;
+    margin-left: 10%;
+    font-size: 2rem;
+    max-width: 400px;
+}
+.content2{
+    padding-bottom: 260px;
+    margin-left: 10%;
+    max-width: 400px;
+    text-align: left;
+    font-size: 1.5rem;
+}
+.teesra{
+    background-image: url("/Photos/5thBack.jpg");
+    background-size: cover;
+ 
+}
+.title3{
+    padding-top: 260px;
+    margin-left: 60%;
+    font-size: 2rem;
+    max-width: 400px;
+   
+    
+}
+.content3{
+    padding-bottom: 260px;
+    margin-left: 60%;
+    max-width: 400px;
+    text-align: left;
+    font-size: 1.5rem;
+
+}
+
+
+nav{
+    padding-left: 10px;
+    font-family: roboto;
+    font-size: larger;
+    
+   
+}
+nav a{
+    
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.new:hover{
+    color:grey;
+}
+
+.sign{
+    color: yellowgreen;
+}
+.data{
+    font-size: 2.5rem;
+    margin-top: 50px;
+    color: rgb(126, 116, 116);
+}
+.rating{
+    margin-left: 230px;
+    
+}
+.number{
+    margin-left: 150px;
+
+}
+.users{
+    margin-left: 150px;
+
+}

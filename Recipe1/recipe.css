@@ -1,0 +1,60 @@
+body{
+    height: 100%;
+    width: 100%
+}
+header{
+    padding-top: 50px;
+    font-family: roboto;
+    font-size: larger;
+    padding-left: 90px;
+    
+    padding-bottom: 50px;
+    background-color:whitesmoke; 
+}
+.gulab{
+    max-width: 400px;
+}
+.user{
+    font-style: italic;
+   
+   
+}
+.desc{
+    max-width: 400px;
+}
+.picture{
+   margin-left: 800px;
+    max-width: 400px;
+    margin-top: -230px;
+}
+main{
+    
+    padding-left: 90px;
+    font-family: roboto;
+    padding-top: 30px;
+    background-color: white;
+}
+.tips{
+    text-align: left;
+}
+h1{
+    color:rgb(233, 233, 34);  ;
+}
+nav{
+    padding-left: 10px;
+    font-family: roboto;
+    font-size: larger;
+    background-color:whitesmoke;  
+   
+}
+nav a{
+    
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: grey;
+}

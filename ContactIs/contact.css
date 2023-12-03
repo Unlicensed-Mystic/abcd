@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    font-family: roboto;
+    padding-top: 20px;
+}
+main{
+    padding: 40px 20%;
+}
+
+.in{
+    padding-top: 20px;
+}
+ul{
+    font-size: 1.7rem;
+    font-family: roboto;
+    /*text-align: center;*/
+    list-style-type: none;
+    margin-left: 7%;
+}
+body{
+    background-color: rgb(240, 233, 233);
+}
+.contact{
+    padding: 6px;
+}
+.contact:hover{
+    padding: 10px 2px;
+    box-shadow: 5px 5px 5px rgb(181, 170, 170);
+    border-radius: 7px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.simmer{
+    color: rgb(233, 233, 34);
+    font-family: Agbalumo;
+    font-size: 2.5rem;
+
+}
+nav{
+    padding-left: 10px;
+    font-family: roboto;
+    font-size: larger;
+   
+}
+nav a{
+    
+    color: black;
+    text-decoration: none;
+}
+.back:hover{
+    color: rgb(209, 179, 179);
+    
+}
+a:hover{
+    color: grey;
+}
+a{
+    color:gray
+}
